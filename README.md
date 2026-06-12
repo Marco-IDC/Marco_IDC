@@ -1,4 +1,4 @@
-# ClimaService
+# Marco IDC di Nicotera Marco
 
 Sito vetrina one-page per un tecnico installatore di climatizzatori a **Brescia e provincia**.
 Realizzato in **HTML/CSS/JavaScript nativo**, senza framework né dipendenze — ideale per GitHub Pages.
