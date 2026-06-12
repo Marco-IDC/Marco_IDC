@@ -4,18 +4,18 @@
     "titolare": "Marco Nicotera",
     "payoff": "Clima perfetto, tutto l'anno",
     "zona": "Brescia e provincia",
-    "piva": "04567890987",
+    "piva": "04742420989",
     "certificazioni": "Patentino F-GAS · Abilitazione DM 37/08",
-    "copyright": "© 2026 ClimaService — Tutti i diritti riservati"
+    "copyright": "© 2026 Marco IDC di Nicotera Marco — Tutti i diritti riservati"
   },
 
   "contatti": {
-    "telefono": "030 123 4567",
-    "telefonoLink": "+390301234567",
-    "whatsapp": "333 123 4567",
-    "whatsappNumero": "393331234567",
-    "email": "info@climaservice.it",
-    "orari": "Lun–Ven 8:00–18:30 · Sab 8:00–12:30"
+    "telefono": "352 078 6365",
+    "telefonoLink": "+393520786365",
+    "whatsapp": "3520786365",
+    "whatsappNumero": "393520786365",
+    "email": "marcoidc@icloud.com",
+    "orari": "Lun–Ven 9:00–19:00 · Sab 9:00–14:00"
   },
 
   "social": [
@@ -39,16 +39,16 @@
       { "icona": "🔥❄️", "titolo": "Pompe di calore", "testo": "Soluzioni efficienti per riscaldare e raffrescare casa tutto l'anno." },
       { "icona": "🧼", "titolo": "Manutenzione e sanificazione", "testo": "Pulizia filtri, igienizzazione e controllo delle prestazioni." },
       { "icona": "🔧", "titolo": "Assistenza e riparazione", "testo": "Diagnosi guasti e ripristino rapido su impianti di ogni marca." },
-      { "icona": "🧪", "titolo": "Ricarica gas refrigerante", "testo": "Interventi a norma eseguiti con patentino F-GAS certificato." },
+      { "icona": "🧪", "titolo": "Ricarica gas refrigerante e ricerca perdite", "testo": "Interventi a norma eseguiti con patentino F-GAS certificato." },
       { "icona": "📋", "titolo": "Sopralluogo e preventivo", "testo": "Consulenza gratuita e senza impegno, anche per i bonus fiscali." }
     ]
   },
 
   "perche": {
-    "titolo": "Perché scegliere ClimaService",
+    "titolo": "Perché scegliere Marco IDC",
     "sottotitolo": "Un professionista serio, non un'improvvisazione.",
     "elenco": [
-      { "numero": "12+", "testo": "Anni di esperienza sul campo" },
+      { "numero": "20+", "testo": "Anni di esperienza sul campo" },
       { "icona": "📜", "testo": "Patentino F-GAS certificato" },
       { "icona": "✅", "testo": "Abilitazione DM 37/08" },
       { "icona": "🛡️", "testo": "Assicurazione RC professionale" },
@@ -56,14 +56,14 @@
       { "icona": "⏱️", "testo": "Preventivi chiari e puntualità" }
     ],
     "marchiTitolo": "Lavoro con i migliori marchi",
-    "marchi": ["Daikin", "Mitsubishi Electric", "Samsung", "LG", "Haier", "Hisense"]
+    "marchi": ["Daikin", "Mitsubishi Electric", "Samsung", "LG"]
   },
 
   "zona": {
     "titolo": "Zona servita",
     "sottotitolo": "Interventi in tutta Brescia e provincia.",
     "comuni": [
-      "Brescia città", "Franciacorta", "Desenzano del Garda", "Montichiari",
+      "Brescia città", "Franciacorta", "Lago d'Iseo", "Desenzano del Garda", "Montichiari",
       "Rovato", "Palazzolo sull'Oglio", "Chiari", "Lonato del Garda",
       "Gussago", "Concesio", "Lumezzane", "Bassa Bresciana"
     ],
