@@ -1,4 +1,4 @@
-# CLAUDE.md — ClimaService
+# CLAUDE.md — Marco IDC di Nicotera Marco
 
 Guida per Claude Code (e per chiunque lavori al repo) su cosa è questo progetto,
 come è fatto e come modificarlo.
