@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ClimaService — Installazione e assistenza climatizzatori a Brescia</title>
+  <meta name="description" content="Tecnico installatore di climatizzatori e pompe di calore a Brescia e provincia. Installazione, manutenzione, ricarica gas F-GAS e gestione bonus fiscali. Preventivo gratuito." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!--
+    NOTA: i contenuti di questa pagina sono caricati da content.json.
+    Per modificare testi, servizi, recapiti, ecc. basta editare content.json,
+    NON questo file. Gli elementi qui sotto sono contenitori vuoti che
+    vengono riempiti da script.js.
+  -->
+
+  <!-- ===== Header ===== -->
+  <header class="site-header" id="top">
+    <div class="container header-inner">
+      <a href="#top" class="logo" id="logo">❄ ClimaService</a>
+      <nav class="nav" id="nav">
+        <a href="#servizi">Servizi</a>
+        <a href="#perche">Perché noi</a>
+        <a href="#zona">Zona servita</a>
+        <a href="#lavori">Lavori</a>
+        <a href="#contatti">Contatti</a>
+      </nav>
+      <a href="#contatti" class="btn btn-primary header-cta">Preventivo gratuito</a>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Apri menu" aria-expanded="false">☰</button>
+    </div>
+  </header>
+
+  <!-- ===== Hero ===== -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <p class="eyebrow" id="hero-eyebrow"></p>
+      <h1 id="hero-title"></h1>
+      <p class="lead" id="hero-lead"></p>
+      <div class="hero-actions">
+        <a href="#" class="btn btn-primary" id="hero-call">📞 Chiama ora</a>
+        <a href="#" class="btn btn-whatsapp" id="hero-wa">💬 Scrivi su WhatsApp</a>
+      </div>
+      <ul class="hero-badges" id="hero-badges"></ul>
+    </div>
+  </section>
+
+  <!-- ===== Servizi ===== -->
+  <section id="servizi" class="section">
+    <div class="container">
+      <h2 class="section-title" id="servizi-title"></h2>
+      <p class="section-sub" id="servizi-sub"></p>
+      <div class="grid grid-3" id="servizi-grid"></div>
+    </div>
+  </section>
+
+  <!-- ===== Perché noi ===== -->
+  <section id="perche" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="perche-title"></h2>
+      <p class="section-sub" id="perche-sub"></p>
+      <div class="grid grid-3" id="perche-grid"></div>
+      <h3 class="brands-title" id="brands-title"></h3>
+      <ul class="brands" id="brands"></ul>
+    </div>
+  </section>
+
+  <!-- ===== Zona servita ===== -->
+  <section id="zona" class="section">
+    <div class="container">
+      <h2 class="section-title" id="zona-title"></h2>
+      <p class="section-sub" id="zona-sub"></p>
+      <ul class="zone-list" id="zona-list"></ul>
+      <p class="zone-note" id="zona-nota"></p>
+    </div>
+  </section>
+
+  <!-- ===== Lavori / Gallery ===== -->
+  <section id="lavori" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title" id="lavori-title"></h2>
+      <p class="section-sub" id="lavori-sub"></p>
+      <div class="gallery" id="gallery"></div>
+      <p class="zone-note" id="lavori-nota"></p>
+    </div>
+  </section>
+
+  <!-- ===== Recensioni ===== -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" id="recensioni-title"></h2>
+      <div class="grid grid-3" id="recensioni-grid"></div>
+    </div>
+  </section>
+
+  <!-- ===== Contatti ===== -->
+  <section id="contatti" class="section section-dark">
+    <div class="container contact-grid">
+      <div class="contact-info">
+        <h2 class="section-title" id="contatti-title"></h2>
+        <p class="section-sub light" id="contatti-sub"></p>
+        <ul class="contact-list" id="contact-list"></ul>
+        <div class="socials" id="socials"></div>
+      </div>
+
+      <form class="contact-form card" id="contact-form">
+        <h3 id="form-titolo"></h3>
+        <label>Nome <input type="text" id="f-nome" required /></label>
+        <label>Telefono <input type="tel" id="f-tel" required /></label>
+        <label>Comune <input type="text" id="f-comune" placeholder="Es. Brescia" /></label>
+        <label>Di cosa hai bisogno?
+          <textarea id="f-msg" rows="3" placeholder="Es. installazione mono-split in soggiorno"></textarea>
+        </label>
+        <button type="submit" class="btn btn-whatsapp full">💬 Invia richiesta su WhatsApp</button>
+        <p class="form-note">Si aprirà WhatsApp con il messaggio già compilato.</p>
+      </form>
+    </div>
+  </section>
+
+  <!-- ===== Footer ===== -->
+  <footer class="site-footer">
+    <div class="container">
+      <p id="footer-azienda"></p>
+      <p class="footer-small" id="footer-piva"></p>
+      <p class="footer-small" id="footer-copy"></p>
+    </div>
+  </footer>
+
+  <!-- ===== Barra azioni mobile ===== -->
+  <nav class="mobile-bar">
+    <a href="#" id="bar-call">📞 Chiama</a>
+    <a href="#" id="bar-wa">💬 WhatsApp</a>
+  </nav>
+
+  <script src="script.js"></script>
+</body>
+</html>
